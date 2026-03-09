@@ -1,4 +1,4 @@
-# Pneumatic Whack-a-Mole
+# Pneumatic Click-a-Mole
 
 ## Overview
 This project was a senior-year mechatronics build that I completed in 2024 at North Montco Technical Career Center. The goal was to create a functional whack-a-mole game using pneumatic cylinders, solenoid-actuated directional control valves, custom 3D-printed moles, and an Arduino Uno for random game logic.
